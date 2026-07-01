@@ -29,6 +29,11 @@ for f in "${EXCLUDE_FILES[@]}"; do
   rm -f "$CONTENT/$f" && echo "   - $f"
 done
 
+echo "→ 비공개 '원본 색인' 섹션을 발행본 index.md에서 제거 (원본은 웹에 안 나감)"
+if [ -f "$CONTENT/index.md" ]; then
+  perl -i -ne 'print unless /\[\[원본 색인\]\]/ or /^##\s*원본\s*\(비공개\)/' "$CONTENT/index.md"
+fi
+
 echo "→ 제외 페이지로 향하는 깨진 위키링크 정리"
 for name in "${EXCLUDE_NAMES[@]}"; do
   export SCRUB_NAME="$name"   # perl 자식 프로세스가 상속받도록 export
