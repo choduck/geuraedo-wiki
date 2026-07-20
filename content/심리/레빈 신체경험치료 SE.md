@@ -5,6 +5,9 @@ tags: [V=IR, 레빈, SE, 신체경험, 떨림, 진자운동, titration, 방출]
 created: 2026-06-24
 updated: 2026-06-29
 sources: [2026-03-30 나를 대표하는 철학자와 심리학자 찾기, 대화기록/AI/gemini/넘-놀라운-발견이었어-039b3cb4]
+summary: "피터 레빈의 신체경험치료(Somatic Experiencing)는 트라우마를 직접 직면하지 않는다. 트라우마 주변을 천천히 맴돌며(titration), 안전과 트라우마 감각 사이를 오가(진자운동) 몸이 갇힌 에너지를 떨림·하품 등으로 방출하게 한..."
+status: synthesis
+confidence: 0.7
 ---
 
 # 레빈 — 신체경험치료(SE)와 떨림

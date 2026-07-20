@@ -5,6 +5,9 @@ tags: [V=IR, ACT, 수용전념치료, 헤이즈, 수용, 탈융합, 가치, 인�
 created: 2026-06-24
 updated: 2026-06-24
 sources: [2026-04-08 프로젝트 문서 검토]
+summary: "ACT(Acceptance and Commitment Therapy)는 증상 제거가 아니라, 불안·공황·말더듬을 있는 그대로 수용하면서 가치 있는 방향으로 행동하는 것을 목표로 한다. '감전은 와도 그래도 마이크를 잡는 것.' → V=IR 프레임..."
+status: synthesis
+confidence: 0.7
 ---
 
 # 수용전념치료(ACT) — 감전된 채로 가기

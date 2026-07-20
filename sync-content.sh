@@ -14,6 +14,7 @@ EXCLUDE_FILES=(
   "사례/윤석열과 김건희.md"
   "_template.md"
   "log.md"
+  "AGENTS.md"
 )
 
 # 위 제외 페이지를 가리키는 [[위키링크]]를 본문에서 정리할 대상 이름(확장자·폴더 없이)

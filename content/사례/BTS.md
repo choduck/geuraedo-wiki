@@ -5,6 +5,9 @@ tags: [V=IR, BTS, LoveMyself, 거대한거부, 마르쿠제, 아도르노, 자�
 created: 2026-06-25
 updated: 2026-06-25
 sources: [프로젝트지식/마르쿠제에 대해 알려줘-1]
+summary: "BTS의 'Love Myself'는 외부(시스템)의 성공 기준을 거부하고 '내가 나를 어떻게 정의하는가'에 집중하는 선언 — 마르쿠제의 일차원화를 거부하는 '거대한 거부'다. 벽(시스템)에 부딪힌 달걀이 V=0 환상을 버리고 상처받은 지금의 나(..."
+status: synthesis
+confidence: 0.7
 ---
 
 # BTS — 달걀의 저항 (Love Myself)
